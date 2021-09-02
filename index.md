@@ -2,7 +2,7 @@
 
 # Hello there~
 
-## My name is Bornyto Hamonangan. This is my OS212 course repository.
+OS212 course repository of hamonangann
 
 Top 10 links every week:
 
