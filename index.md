@@ -1,9 +1,10 @@
-# Hello there~
-
+Hello there~
+==
 OS212 course repository of hamonangann
+--
+*
+- [LOG](TXT/mylog.txt)
 
--[LOG](TXT/mylog.txt)
+- [GitHub](https://github.com/hamonangann/os212)
 
--[GitHub](https://github.com/hamonangann/os212)
-
--[Links](./LINKS/)
+- [Links](./LINKS/)
