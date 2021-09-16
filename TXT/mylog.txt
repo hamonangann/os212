@@ -16,4 +16,5 @@ ZCZC W01   5 L17 Update mylog
 ZCZC W01  25 L18 Learn awk, bash, review regex
 ZCZC W01  60 L19 Read OSC
 ZCZC W02  20 L22 Take quiz W01
+ZCZC W02  40 L09 Assignment week2, yet to upload link
 
