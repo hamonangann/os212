@@ -18,3 +18,8 @@ ZCZC W01  60 L19 Read OSC
 ZCZC W02  20 L22 Take quiz W01
 ZCZC W02  40 L09 Assignment week2, yet to upload link
 ZCZC W02  45 L09 Upload ranks and links
+ZCZC W03  45 L02 Zoom meeting
+ZCZC W03  90 L09 Assignment week3, upload link, ranks, log
+ZCZC W03 300 L84 Take a rest
+ZCZC W03  30 L22 Take "challenging" quiz
+
