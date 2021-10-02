@@ -22,4 +22,9 @@ ZCZC W03  45 L02 Zoom meeting
 ZCZC W03  90 L09 Assignment week3, upload link, ranks, log
 ZCZC W03 300 L84 Take a rest
 ZCZC W03  30 L22 Take "challenging" quiz
+ZCZC W04 120 L02 Join zoom meeting (Monday and Thursday)
+ZCZC W04  70 L09 Assignment week4
+ZCZC W04  30 L25 Fix checksum diff with myscript, consult to TA
+ZCZC W04  20 L22 Take quiz W04
+ZCZC W04 300 L99 Blackout since midnight until quiz :(
 
