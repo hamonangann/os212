@@ -27,4 +27,8 @@ ZCZC W04  70 L09 Assignment week4
 ZCZC W04  30 L25 Fix checksum diff with myscript, consult to TA
 ZCZC W04  20 L22 Take quiz W04
 ZCZC W04 300 L99 Blackout since midnight until quiz :(
+ZCZC W05  20 L22 Take quiz W05
+ZCZC W05  30 L06 GSGS about C compiling
+ZCZC W05  80 L09 Assignment week4
+ZCZC W05  35 L02 Zoom meeting (Thu)
 
