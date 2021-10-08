@@ -7,11 +7,7 @@ This is OS212 course repository of [hamonangann](https://github.com/hamonangann/
 
 Well, I regularly do what I want. However, it will be annoying if I do nothing when I need to do something :D. By the way, I am not sure I remember what I've done yesterday, or what I'll do tommrrow, so here's [my log.](TXT/mylog.txt) **Que sera sera!**
 
-
-> ![Crab](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM3WTRGZSJMRtksqLo75CEh5RPkciW2rbLg&usqp=CAU)
->
-> Disclaimer: I am **NOT** a crab in a bucket. No need to compete.
-
+> Disclaimer: I am **NOT** a [crab in a bucket](https://en.wikipedia.org/wiki/Crab_mentalityhttps://en.wikipedia.org/wiki/Crab_mentality). No need to compete.
 
 I am also not sure I remember all my Google searches. Don't worry, I have some [links](./LINKS/) that I think are useful...
 
