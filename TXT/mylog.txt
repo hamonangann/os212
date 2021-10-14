@@ -31,4 +31,8 @@ ZCZC W05  20 L22 Take quiz W05
 ZCZC W05  30 L06 GSGS about C compiling
 ZCZC W05  80 L09 Assignment week4
 ZCZC W05  35 L02 Zoom meeting (Thu)
+ZCZC W06  30 L09 Assignment week6
+ZCZC W06  30 L01 Check SCELE
+ZCZC W06  35 L28 Access os1.vlsm.org by github account
+ZCZC W06  25 L01 Looking for discord forum discussions
 
