@@ -40,3 +40,9 @@ ZCZC W07  75 L02 Attend zoom meeting (Monday)
 ZCZC W07  15 L06 GSGS about scp, cat, ssh
 ZCZC W07  45 L09 Assignment W07
 ZCZC W07  60 L01 GSGS + Answer forum question and give suggestion
+ZCZC W09  30 L22 Take quiz W08
+ZCZC W09 300 L09 Speedrunning ch3-5 LFS
+ZCZC W09 160 L09 LFS Day 2-ch6 finished
+ZCZC W09 150 L09 LFS Day 3-ch7 finished
+ZCZC W09  75 L02 Attend zoom meeting (Thu)
+
